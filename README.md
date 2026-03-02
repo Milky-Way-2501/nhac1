@@ -1,4 +1,3 @@
-<!DOCTYLE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,7 +23,6 @@
         .btn {display: inline-block;background: #09d1c7;color: white;padding: 10px 20px;text-decoration: none;border-radius: 5px;margin-top: 10px;}
     </style>
 </head>
-<h1>BÀI TUI KHÁ THÍCH</h1>
 <body>
     <header>
         <nav>
@@ -57,4 +55,3 @@
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/ECxVfrwwTp0?si=8dHxh428Hv4oOeD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <audio src="https://github.com/user-attachments/files/25685583/GODS.mp3" controls autoplay loop></audio>
 </body>
-</html>
