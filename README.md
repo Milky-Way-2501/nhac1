@@ -12,18 +12,15 @@
         .card img {width: 100 %; height: 200 px;object-fit: cover; }
         .card-content {padding: 15 px; }
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin: 0;line-height: 1.6;color: #213A58;}
-        header {background: #213A58; color: white; padding: 1 rem 0; position: fixed; width: 100 %; top: 0; z-index: 1000;}
+        header {background: #213A58; color: white; padding: 1 rem 0; position: fixed; width: 100 vw; top: 0; z-index: 1000;}
         nav {display: flex;justify-content: space-around;align-items: center;}
         nav ul {list-style: none;display: flex;}
         nav ul li {margin: 0 15 px;}
         nav ul li a {color: white;text-decoration: none;font-weight: bold;}
-        /* Phần Banner chính */
         .hero {background: #15919b;background-size: cover; background-position: center; height: 80 vh; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; text-align: center; padding-top: 60 px;}
         .hero h1 { font-size: 3.5 rem; margin-bottom: 10 px; }
         .hero p { font-size: 1.2 rem; }
-        /* Footer */
         footer {background: #213a58;color: white;text-align: center;padding: 20 px 0;margin-top: 50 px;}
-        /* Nút bấm */
         .btn {display: inline-block;background: #09d1c7;color: white;padding: 10 px 20 px;text-decoration: none;border-radius: 5 px;margin-top: 10 px;}
     </style>
 </head>
